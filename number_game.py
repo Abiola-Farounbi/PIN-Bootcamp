@@ -13,7 +13,7 @@ while True:
       else: 
       	 print("wrong entry")
 
-
+print("my best friend")
 ##with open("biola.txt") as word_file:
 ##	 value= list(word_file.read().split())
 ##print(value)
